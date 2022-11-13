@@ -7,8 +7,8 @@ const Footer = () => {
       <footer>
         <div className='container grid2'>
           <div className='box'>
-            <h1>Bonik</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero id et, in gravida. Sit diam duis mauris nulla cursus. Erat et lectus vel ut sollicitudin elit at amet.</p>
+            <h1>Avinash PVT LTD</h1>
+            <p>This Application is use to shopping, I add all functions to use all shpong app you can check and use.</p>
             <div className='icon d_flex'>
               <div className='img d_flex'>
                 <i class='fa-brands fa-google-play'></i>
@@ -44,9 +44,9 @@ const Footer = () => {
           <div className='box'>
             <h2>Contact Us</h2>
             <ul>
-              <li>70 Washington Square South, New York, NY 10012, United States </li>
-              <li>Email: uilib.help@gmail.com</li>
-              <li>Phone: +1 1123 456 780</li>
+              <li>AT+PO TIHIYA, PS KHAIRA, DIST JAMUI, BIHAR(INDIA)</li>
+              <li>Email: emails4avinash@gmail.com</li>
+              <li>Phone: +91 9110951707</li>
             </ul>
           </div>
         </div>
